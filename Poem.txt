@@ -2,6 +2,7 @@ The rainbow
 purple
 blue
 orange
+indigo
 Green
 yello
 unicorn
